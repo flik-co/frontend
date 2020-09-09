@@ -1,16 +1,29 @@
-# flik
+<h1 align="center">Flik</h1>
 
-A new Flutter project.
+<p align="center">
+  <img alt="license MIT" src="https://img.shields.io/badge/license-MIT-yellowgreen">
+  <img alt="made with Flutter" src="https://img.shields.io/badge/made%20with-Flutter-blue">
+</p>
 
-## Getting Started
+Aplicativo da Flik, a plataforma de negociação de preços entre micro e pequenos empresários e seus fornecedores.
 
-This project is a starting point for a Flutter application.
+## Instalação
 
-A few resources to get you started if this is your first Flutter project:
+Você precisará apenas do [Flutter](https://flutter.io/docs/get-started/install) e suas co-dependências para executar o aplicativo. Todo o processo está descrito na documentação oficial. Não deixe de conferir atualizações recentes.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Com o ambiente pronto, basta clonar o repositório.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Executando o Projeto
+
+Para executar o projeto, utilize o comando abaixo:
+
+```bash
+flutter run -d web
+```
+
+## Contribuições
+
+Pull requests são bem-vindos! Para mudanças maiores, por favor abra uma issue primeiro para discutir o que você gostaria de alterar.
+
+## Licença
+[MIT](https://choosealicense.com/licenses/mit/)
